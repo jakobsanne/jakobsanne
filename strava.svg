@@ -8,7 +8,7 @@
   .Run { fill: #fc4c02; } .Ride { fill: #3b82f6; } .Other { fill: #8b949e; }
 </style>
 <text class="title" x="60" y="20">Weekly distance, last 52 weeks</text>
-<text x="60" y="38">692 km total · active 35 of 52 weeks</text>
+<text x="60" y="38">702 km total · active 35 of 52 weeks</text>
 <text x="808" y="20" text-anchor="end">Other</text>
 <rect class="Other" x="761.5" y="11" width="10" height="10" rx="2"/>
 <text x="747.5" y="20" text-anchor="end">Ride</text>
@@ -177,7 +177,7 @@
 <g><title>Week of 16 Nov 2026: Run 15.4 km</title>
 <rect class="Run" x="781.2" y="163.4" width="10.4" height="38.6"/>
 </g>
-<g><title>Week of 23 Nov 2026: Run 4.9 km</title>
-<rect class="Run" x="795.6" y="189.8" width="10.4" height="12.2"/>
+<g><title>Week of 23 Nov 2026: Run 14.9 km</title>
+<rect class="Run" x="795.6" y="164.7" width="10.4" height="37.3"/>
 </g>
 </svg>
